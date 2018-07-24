@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    margin-top: 300px;
+    background: linear-gradient(to right, green, red);
+}
+
+h1 {
+    font-size: 3.5em;
+}
